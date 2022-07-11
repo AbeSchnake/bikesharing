@@ -1,4 +1,6 @@
 # Citi Bike Bikesharing Analysis
+## Tableau Dashboard
+[link to dashboard](https://public.tableau.com/app/profile/abraham.schnake "Tableau Page")
 ## Overview
 This project is an analysis of the Citi Bike company's data from their New York City locations for the pruposes of a proposed bikesharing venture to be based in Des Moines, Iowa. 
 
